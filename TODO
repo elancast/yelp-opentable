@@ -1,0 +1,38 @@
+How to do this:
+1. Query opentable for what's available on <date> at <time> for <party size>
+2. Take top X results and search yelp
+
+
+
+
+
+
+
+
+API v2.0
+Consumer Key
+  8JdpxLL5e9we__fElm1j0g
+Consumer Secret
+  Nw7443fMf6vAvGKiWfsCsuy7eWc
+Token
+  4FRwolTY8Dg26b140kbkrBDic_r2HBps
+Token Secret
+  4h6AAcM9umbmDAwR4hbzOCu2-aE
+
+API v1.0 (deprecated)
+YWSID
+Key     a4VzLh5it5pS_-4misTEvw
+For your protection, you should never share your secret access keys with anyone.
+
+In accordance with the Yelp API Terms of use you agree not to share these keys with any third party.
+
+
+http://www.yelp.com/search/snippet?find_desc=Maykadeh&find_loc=North%20Beach%2C%20San%20Francisco%2C%20CA
+
+http://www.opentable.com/s/api?
+  covers=2&
+  regionids=5&
+  showmap=false&
+  popularityalgorithm=NameSearches&
+  sort=Popularity&
+  datetime=10/12/2014 07:00 PM&
